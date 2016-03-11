@@ -1,7 +1,7 @@
 name: drone-art.ch
 favicon: null
-layout_spectrum: 0.12142450944520533
-typography_spectrum: 0.11212639044970274
+layout_spectrum: 0
+typography_spectrum: 0.32419
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.585528866155073
-  lightness: 0.05584627320058644
-  saturation: 0.8104138078633696
-  rhythmicContrast: 0.6994693190790713
+    - '#ffedd8'
+    - '#051f12'
+    - '#5b5241'
+    - '#a6b8a6'
+    - '#a28367'
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
